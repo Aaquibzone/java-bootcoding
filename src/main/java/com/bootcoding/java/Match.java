@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class Match {
 
-    // Properties / data members
+    // Properties / data membe
 
     private String teamName;
     private int over;
