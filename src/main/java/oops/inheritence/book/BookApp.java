@@ -36,7 +36,10 @@ public class BookApp {
 
 
 
-
+        b.buyBook();
+        audio.buyBook();
+        b.privateVariable();
+        audio.privateVariable();
 
 
 

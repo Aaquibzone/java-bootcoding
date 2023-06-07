@@ -27,7 +27,7 @@ public class Book {
     }
 
     private void  sellBook(){
-        System.out.println("__________Selling Book Method(private)_________");
+        System.out.println("--- Book Method(private)--");
 
 
     }
