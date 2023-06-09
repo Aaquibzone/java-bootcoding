@@ -1,4 +1,4 @@
-package oops.inheritence;
+package oops.inheritence.Table;
 
 public class TableApp {
     public static void main(String[] args) {
