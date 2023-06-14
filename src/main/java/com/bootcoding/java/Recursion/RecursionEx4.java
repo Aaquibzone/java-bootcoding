@@ -1,6 +1,7 @@
 package com.bootcoding.java.Recursion;
 
-public class RecursionEx4 {
+public class RecursionEx4
+{
 //WAP to print square of natural numbers upto given number using recursion
 
     public static void main(String[] args) {
