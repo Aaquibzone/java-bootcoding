@@ -1,4 +1,4 @@
-package oops;
+package com.bootcoding.java.assignment;
 public class Door {
     double dimensions;
     String unit;
